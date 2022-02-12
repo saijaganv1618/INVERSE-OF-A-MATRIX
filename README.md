@@ -20,7 +20,7 @@ a=np.array([[1,0,3],[-1,2,-2,],[2,3,-1]])
 values=np.linalg.inv(a)
 print(values)
 ## Output:
-![output](happy.png)
+![output](lll.png)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
